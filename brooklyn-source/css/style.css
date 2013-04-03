@@ -27,10 +27,17 @@ a{
 	margin-right:150px;
 	margin-left:50px;
 }
-p{
+#p1{
 	font-size:13px;
 	margin-right:100px;
 	margin-left:50px;
+	margin-bottom:20px;
+}
+#p2{
+	font-size:13px;
+	margin-right:100px;
+	margin-left:50px;
+	margin-bottom:30px;
 }
 
 #container1{
