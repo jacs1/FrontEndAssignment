@@ -18,12 +18,71 @@ a:hover{
 	 Font Color = #656565
 
 Link Hover Color = #20222a*/
-
-
-div{
-	margin:center;
+h2{
 	margin-right:150px;
 	margin-left:50px;
-	margin-top:90px;
-	margin-bottom:90px;
+
+}
+a{
+	margin-right:150px;
+	margin-left:50px;
+}
+p{
+	font-size:13px;
+	margin-right:100px;
+	margin-left:50px;
+}
+
+#container1{
+	margin:center;
+	margin-right:150px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+#container2{
+	margin:center;
+	margin-right:150px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+img{
+	margin-left:50px;
+	margin-top:20px;
+
+}
+#logo1{
+	display:inline-block;
+	padding:0px;
+	margin:-25px;
+	margin-left: 0px;
+	
+
+
+
+}
+#logo2{
+	display:inline-block;
+	padding:0px;
+	margin:-25px;
+	
+
+}
+#logo3{
+	display:inline-block;
+	padding:0px;
+	margin:-25px;
+	
+	
+
+}
+#logo4{
+	display:inline-block;
+	padding:0px;
+	margin:-25px;
+
+
+
 }
